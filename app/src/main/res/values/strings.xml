@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MSM Application</string>
+    <string name="app_url">服务器地址</string>
+    <string name="app_token">交互token</string>
+</resources>
